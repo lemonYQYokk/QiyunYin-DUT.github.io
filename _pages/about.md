@@ -16,13 +16,13 @@ Email:jlspyqy@mail.dlut.edu.cn.
 Research Interest
 ------
 
-· Computer Vision
-· Multimodal Large Language Model
-· Salient Object Detection
-· Virtual Reality Scene Development
-· Product Analysis and Design
+<li>Computer Vision
+<li>Multimodal Large Language Model
+<li>Salient Object Detection
+<li>Virtual Reality Scene Development
+<li>Product Analysis and Design
   
-Highlights and News
+<h6>Highlights and News
 ------
 <li>2024.06.29: Led the team to enter the provincial final of "Liaoning Challenge Cup" as the captain！
 <li>2024.06.06：Made autonomous driving project report in Huawei.
