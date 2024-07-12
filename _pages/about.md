@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Qiyun Yin’s (殷祺云) Homepage"
 author_profile: true
 redirect_from: 
   - /about/
