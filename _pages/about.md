@@ -16,11 +16,11 @@ Email:jlspyqy@mail.dlut.edu.cn.
 Research Interest
 ------
 
-<li>Computer Vision
-<li>Multimodal Large Language Model
-<li>Salient Object Detection
-<li>Virtual Reality Scene Development
-<li>Product Analysis and Design<br>
+<li>Computer Vision</li>
+<li>Multimodal Large Language Model</li>
+<li>Salient Object Detection</li>
+<li>Virtual Reality Scene Development</li>
+<li>Product Analysis and Design</li>
   
 Highlights and News
 ------
