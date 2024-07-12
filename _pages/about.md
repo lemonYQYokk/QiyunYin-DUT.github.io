@@ -31,6 +31,7 @@ Highlights and News
 <li>2023.12.30：Won the first prize of the National Artificial Intelligence Application Scenario Innovation Challenge as the captain and reported by CCTV evening News！</li>
 <li>2023.12.05：Won the Silver Award of China International College Student Innovation Competition！</li>
 
+
 Competitions and Honors
 ------
 
@@ -48,11 +49,13 @@ Competitions and Honors
 <li>National third prize in National College Students Photoelectric Design Competition.</li>
 <li>National third prize in Asia-pacific Mathematical Contest in Modeling.(captain)</li>
 
+
 Scholarships
 ------
 
 <li>Science and Technology Innovation Scholarship of Dalian University of Technology，2023</li>
 <li>Science and Technology Innovation Scholarship of Dalian University of Technology，2022</li>
+
 
 Patent
 ------
@@ -61,6 +64,7 @@ Patent
 <li>一种基于距离感知掩码转换器和稀疏注意力掩码机制的深度补全方法</li>
 <li>一种中波近红外宽带增透膜及其制备方法</li>
 <li>基于偏振光学成像减少光强对于跑步姿态分析影响的方法</li>
+
 
 Software Copyright
 ------
