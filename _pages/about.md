@@ -15,12 +15,14 @@ Email:jlspyqy@mail.dlut.edu.cn.
 
 Research Interest
 ------
+<ul>
 <li>Computer Vision
 <li>Multimodal Large Language Model
 <li>Salient Object Detection
 <li>Virtual Reality Scene Development
-<li>Product Analysis and Design</li>
-
+<li>Product Analysis and Design
+</ul>
+  
 Highlights and News
 ------
 <li>2024.06.29: Led the team to enter the provincial final of "Liaoning Challenge Cup" as the captain！
