@@ -16,11 +16,11 @@ Email:jlspyqy@mail.dlut.edu.cn.
 Research Interest
 ------
 <ul>
-<li>Computer Vision
-<li>Multimodal Large Language Model
-<li>Salient Object Detection
-<li>Virtual Reality Scene Development
-<li>Product Analysis and Design
+<li>Computer Vision</li>
+<li>Multimodal Large Language Model</li>
+<li>Salient Object Detection</li>
+<li>Virtual Reality Scene Development</li>
+<li>Product Analysis and Design</li>
 </ul>
   
 Highlights and News
@@ -29,7 +29,7 @@ Highlights and News
 <li>2024.06.06：Made autonomous driving project report in Huawei.
 <li>2023.12.30：Won the first prize of the National Artificial Intelligence Application Scenario Innovation Challenge as the captain and reported by CCTV evening News！
 <li>2023.12.05：Won the Silver Award of China International College Student Innovation Competition！</li>
-  
+
 Competitions and Honors
 ------
 <li>The pioneer in science and technology entrepreneurship of Dalian University of Technology,2023.
