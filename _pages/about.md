@@ -20,9 +20,9 @@ Research Interest
 <li>Multimodal Large Language Model
 <li>Salient Object Detection
 <li>Virtual Reality Scene Development
-<li>Product Analysis and Design
+<li>Product Analysis and Design<br>
   
-<h6>Highlights and News
+Highlights and News
 ------
 <li>2024.06.29: Led the team to enter the provincial final of "Liaoning Challenge Cup" as the captain！
 <li>2024.06.06：Made autonomous driving project report in Huawei.
